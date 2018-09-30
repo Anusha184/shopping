@@ -6,3 +6,9 @@
  - mango
 - donut
 - kulfi
+
+## mobiles
+- samsung
+- lg
+- vivo
+- lava
