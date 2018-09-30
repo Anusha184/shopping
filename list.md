@@ -12,5 +12,4 @@
 - lg
 - vivo
 - lava
-## clothes
-skirt
+# hucchi 
