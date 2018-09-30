@@ -1,4 +1,4 @@
-#my shopping list
+# my shopping list
 
 - Apples
 - Grapes
@@ -6,3 +6,9 @@
  - mango
 - donut
 - kulfi
+
+## mobiles
+- samsung
+- lg
+- vivo
+- lava
