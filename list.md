@@ -12,3 +12,5 @@
 - lg
 - vivo
 - lava
+## dress
+- pant
